@@ -1,0 +1,11 @@
+node_modules/
+dist/
+dist-single/
+*.log
+.env
+.env.*
+.vscode/
+.idea/
+.DS_Store
+.vercel/
+.netlify/
